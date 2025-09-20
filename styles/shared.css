@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(233, 215, 207);
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, sans-serif;
+  font-size: 24px;
+}
+
+a {
+  font-family: Cambria, Cochin, Georgia, sans-serif;
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
