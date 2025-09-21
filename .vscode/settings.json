@@ -3,5 +3,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on",
   "editor.formatOnPaste": true,
-  "livePreview.defaultPreviewPath": "/daily-challenge.html"
+  "livePreview.defaultPreviewPath": "/challenge.html"
 }
