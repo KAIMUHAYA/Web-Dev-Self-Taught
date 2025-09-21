@@ -10,6 +10,12 @@ header {
   align-items: center;
 }
 
+h1 {
+  color: rgb(119, 74, 216);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+}
+
 header p {
   background: linear-gradient(90deg, rgb(1, 50, 108), rgb(175, 73, 33));
   color: rgb(243, 233, 255);
@@ -20,12 +26,6 @@ header p {
   margin-top: -35px;
   margin-bottom: 60px;
   box-shadow: 1px 1px 3px rgb(0, 0, 0, 0.2);
-}
-
-h1 {
-  color: rgb(119, 74, 216);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 50px;
 }
 
 img {
