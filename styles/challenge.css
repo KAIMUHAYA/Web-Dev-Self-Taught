@@ -2,9 +2,19 @@ body {
   background-color: rgb(243, 233, 255);
   margin: 20px;
 }
+
 header {
   text-align: center;
 }
+
+/* header p {
+  margin-top: -80px;
+  background-color: rgb(119, 74, 216);
+  color: rgb(243, 233, 255);
+  padding-top: -100px;
+  margin: 0 150px;
+  display: inline-block;
+} */
 
 h1 {
   color: rgb(119, 74, 216);
@@ -16,6 +26,8 @@ h1 {
 img {
   width: 200px;
   height: auto;
+  /* padding-top: 50px;
+  margin: 0 100px; */
 }
 
 main {
